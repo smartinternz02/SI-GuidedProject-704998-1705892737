@@ -107,3 +107,5 @@ Analyze test reports to identify patterns, trends, and areas for improvement. Us
 
 ## Send Reports through Email
 Configure Katalon Studio to send automated test reports via email to relevant stakeholders. Enable notifications to keep the team informed about test
+## video 
+https://www.youtube.com/watch?v=-TBepIHhZvQ
