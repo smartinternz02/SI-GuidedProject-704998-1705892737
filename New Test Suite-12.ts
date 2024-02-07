@@ -15,7 +15,7 @@
       <guid>05d921c6-29e9-49fe-9a05-c5b41579b89b</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Amazon_record/New Test Case-12</testCaseId>
+      <testCaseId>Test Cases/CURA_HEALTH/New Test Case-12</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

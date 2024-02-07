@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteEntity>
    <description></description>
-   <name>New Test Suite-7</name>
+   <name>New Test Suite-14</name>
    <tag></tag>
    <isRerun>false</isRerun>
    <mailRecipient></mailRecipient>
@@ -10,12 +10,12 @@
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
    <rerunImmediately>true</rerunImmediately>
-   <testSuiteGuid>d6f1081e-233b-4dd3-8b9e-60754cec6274</testSuiteGuid>
+   <testSuiteGuid>e8f074ae-db8b-4220-b95f-83e7031202c4</testSuiteGuid>
    <testCaseLink>
-      <guid>44c9ec6c-75f6-42c2-b21c-0334c3f5d75a</guid>
+      <guid>6b4d2bd1-d302-43db-b82c-a490b4ace8cd</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/CURA_HEALTH/New Test Case-6</testCaseId>
+      <testCaseId>Test Cases/CURA_HEALTH/New Test Case-14</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

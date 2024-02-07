@@ -15,14 +15,14 @@
       <guid>df52bd1e-98fb-477d-ad15-b9b84ec4358f</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Amazon_record/New Test Case-1 (1)</testCaseId>
+      <testCaseId>Test Cases/CURA_HEALTH/New Test Case-1 (1)</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
       <guid>1501bc81-61db-4a05-8722-92e6aa3df130</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Amazon_record/New Test Case-1 (1)</testCaseId>
+      <testCaseId>Test Cases/CURA_HEALTH/New Test Case-1 (1)</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>
